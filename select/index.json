@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Redbone",
+  "base_artist": "Childish Gambino",
+  "createdAt": "2025-12-20T16:25:46.956678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/01_Redbone_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Magdalena Bay",
+      "has_synced": true,
+      "path": "select/02_Redbone_Magdalena_Bay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/03_Redbone_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Leon Redbone--On The - - My Walking Stick",
+      "artist": "Leon Redbone",
+      "has_synced": true,
+      "path": "select/04_Leon_Redbone--On_The_-_-_My_Walking_Stick_Leon_Redbone.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Redbone In The City",
+      "artist": "Bad Brains",
+      "has_synced": true,
+      "path": "select/05_Redbone_In_The_City_Bad_Brains.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/06_Redbone_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Redbone",
+      "has_synced": false,
+      "path": "select/07_Redbone_Redbone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/08_Redbone_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/09_Redbone_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "has_synced": false,
+      "path": "select/10_Redbone_Childish_Gambino.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Magdalena Bay",
+      "has_synced": true,
+      "path": "select/11_Redbone_Magdalena_Bay.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/12_Redbone_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Redbone Girl - feat. Lil Wayne",
+      "artist": "Eric Benét",
+      "has_synced": false,
+      "path": "select/13_Redbone_Girl_-_feat._Lil_Wayne_Eric_Benét.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Redbone (Original Mix)",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/14_Redbone_(Original_Mix)_Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "has_synced": true,
+      "path": "select/15_Redbone_Childish_Gambino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "has_synced": false,
+      "path": "select/pl_01_Redbone_Childish_Gambino.txt"
+    }
+  ]
+}
